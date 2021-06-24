@@ -8,7 +8,8 @@ If you write something in A2, then it will create a date in both B2 and C2, but 
 
 Here's how it looks.
 
-https://i.imgur.com/lJMRhxE.gif
+<a href="https://imgur.com/lJMRhxE"><img src="https://i.imgur.com/lJMRhxE.gif" title="source: imgur.com" /></a>
+
 
 Below is the code itself. You yourself will find how to use it, but I finished here.
 
